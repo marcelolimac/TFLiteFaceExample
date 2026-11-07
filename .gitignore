@@ -14,5 +14,4 @@
 .externalNativeBuild
 
 .app/src/main/res/raw/*.png
-config.bat
 node_modules
